@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cursos\\Azure\\Platzi\\Web Apps\\PlatziWebSite\\PlatziWebSite.csproj": {}
+    "D:\\Cursos\\Azure\\Platzi\\Web Apps\\SitioWebPlatzi\\PlatziWebSite.csproj": {}
   },
   "projects": {
-    "D:\\Cursos\\Azure\\Platzi\\Web Apps\\PlatziWebSite\\PlatziWebSite.csproj": {
+    "D:\\Cursos\\Azure\\Platzi\\Web Apps\\SitioWebPlatzi\\PlatziWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\Azure\\Platzi\\Web Apps\\PlatziWebSite\\PlatziWebSite.csproj",
+        "projectUniqueName": "D:\\Cursos\\Azure\\Platzi\\Web Apps\\SitioWebPlatzi\\PlatziWebSite.csproj",
         "projectName": "PlatziWebSite",
-        "projectPath": "D:\\Cursos\\Azure\\Platzi\\Web Apps\\PlatziWebSite\\PlatziWebSite.csproj",
+        "projectPath": "D:\\Cursos\\Azure\\Platzi\\Web Apps\\SitioWebPlatzi\\PlatziWebSite.csproj",
         "packagesPath": "C:\\Users\\Jarleac\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursos\\Azure\\Platzi\\Web Apps\\PlatziWebSite\\obj\\",
+        "outputPath": "D:\\Cursos\\Azure\\Platzi\\Web Apps\\SitioWebPlatzi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jarleac\\AppData\\Roaming\\NuGet\\NuGet.Config"
